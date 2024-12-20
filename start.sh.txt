@@ -1,0 +1,4 @@
+cmd echo "starting server" & F: 
+cmd F:\Jupyter_files\.env
+cmd .\Scripts\activate
+cmd jupyter lab
